@@ -1,20 +1,17 @@
-# Olá, eu sou o Ricardo Lopes! 👋
+# Ricardo Lopes
+### Frontend Developer
 
-🌟 **Desenvolvedor Frontend**
+<a href="mailto:riik.rsl@gmail.com" target="_blank" rel="noreferrer noopener"> <img src="https://img.icons8.com/?size=100&id=85467&format=png&color=ffffff" alt="Email" width="25" height="25" /></a> <a href="https://www.instagram.com/riiklopes" target="_blank" rel="noreferrer noopener"> <img src="https://img.icons8.com/?size=100&id=85154&format=png&color=ffffff" alt="Instagram" width="25" height="25" /></a> <a href="https://www.linkedin.com/in/ricardolopesdev" target="_blank" rel="noreferrer noopener"><img src="https://img.icons8.com/?size=100&id=16166&format=png&color=ffffff" alt="Linkedin" width="25" height="25" /></a> 
 
-🔹 **Especializações:**
-- **ReactJS**
-- **TailwindCSS**
-- **JavaScript**
+###
 
-🔹 **Conhecimento:**
-- **HTML5**
-- **CSS3**
-- **JavaScript**
-- **ReactJS**
-- **TailwindCSS**
-- **Bootstrap**
-- **SQL**
+⚐ Based in Sao Paulo, Brazil
 
-🔹 **Sobre Mim:**
-Antes de me dedicar ao desenvolvimento frontend, trabalhei em telemarketing por 8 meses, onde adquiri habilidades essenciais em atendimento ao cliente, trabalho em equipe, negociação de contratos e cartões. Agora, estou em busca de oportunidades para expandir meus conhecimentos e aplicar minhas habilidades em projetos desafiadores no campo da tecnologia.
+ ## Skills
+   ![My Skills](https://skillicons.dev/icons?i=html,css,js,redux,react,next,tailwind,bootstrap)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lukemorales/lukemorales/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lukemorales/lukemorales/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ricardodevpro/ricardodevpro/output/snake.svg" />
+</picture>
