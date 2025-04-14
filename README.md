@@ -1,5 +1,5 @@
 # Ricardo Lopes
-### Frontend Developer
+### Fullstack Developer Jr
 
 <a href="mailto:riik.rsl@gmail.com" target="_blank" rel="noreferrer noopener"> <img src="https://img.icons8.com/?size=100&id=85467&format=png&color=ffffff" alt="Email" width="25" height="25" /></a> <a href="https://www.instagram.com/riiklopes" target="_blank" rel="noreferrer noopener"> <img src="https://img.icons8.com/?size=100&id=85154&format=png&color=ffffff" alt="Instagram" width="25" height="25" /></a> <a href="https://www.linkedin.com/in/ricardolopesdev" target="_blank" rel="noreferrer noopener"><img src="https://img.icons8.com/?size=100&id=16166&format=png&color=ffffff" alt="Linkedin" width="25" height="25" /></a> 
 
